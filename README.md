@@ -1,7 +1,7 @@
 Livestreamer Delay and Restart Script
 =================================
 
-THIS SCRIPT DEPENDS ON LIVESTREAMER WHICH CAN BE OBTAINED FROM HERE: http://livestreamer.readthedocs.org/en/latest/install.html
+**THIS SCRIPT DEPENDS ON LIVESTREAMER WHICH CAN BE OBTAINED FROM HERE: http://livestreamer.readthedocs.org/en/latest/install.html**
 
 This simple script can be used to schedule a stream recording and will also automatically restart it on failure.  The user-controlled variables are documented near the top of the script and will need to be edited with start date, stream URL, etc.
 
