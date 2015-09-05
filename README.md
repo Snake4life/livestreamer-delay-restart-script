@@ -7,6 +7,8 @@ This simple script can be used to schedule a stream recording and will also auto
 
 ##Windows Version
 
+Once you have filled in the variable right-click the script and choose "Run with PowerShell" to execute.  You will see the output indicating how long it's going to sleep.  Once this time has been reached it will start recording the stream and restart if interrupted.
+
 ##Linux Version
 
 Once you have filled in the variables from a terminal simply execute ./ls_delay_restart.sh and you will see an output of sleeping for x seconds.  Once this time has been reached it will start recording the stream and restart if interrupted.  
