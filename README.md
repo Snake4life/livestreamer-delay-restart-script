@@ -7,7 +7,7 @@ This simple script can be used to schedule a stream recording and will also auto
 
 ##Windows Version
 
-**BY DEFAULT WINDOWS WILL NOT LET YOU EXECUTE THE DOWNLOADED SCRIPT.**  Please copy the contents and paste into a new file saving it as "ls_delay_restart.ps1" in a location convenient for you.  Make sure you edit the variable at the top with stream URL, time, etc.  Once saved right-click on the file and choose "Run with PowerShell" to execute.  You will see an output telling you how long it's going to sleep.  Once this time has been reached it will start recording the stream and restart if interrupted.
+**BY DEFAULT WINDOWS WILL NOT LET YOU EXECUTE THE DOWNLOADED SCRIPT.**  Please copy the contents and paste into a new file saving it as "ls_delay_restart.ps1" in a location convenient for you.  Make sure you edit the variables at the top with stream URL, time, etc.  Once saved right-click on the file and choose "Run with PowerShell" to execute.  You will see an output telling you how long it's going to sleep.  Once this time has been reached it will start recording the stream and restart if interrupted.
 
 ##Linux Version
 
