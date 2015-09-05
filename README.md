@@ -15,4 +15,4 @@ Once you have filled in the variables from a terminal simply execute ./ls_delay_
 Make sure you chmod +x the script before you attempt to execute it.  
 
 
-####Any issues please let me know!
+**Any issues please let me know!**
