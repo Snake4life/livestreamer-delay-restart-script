@@ -58,7 +58,7 @@ $fail_sleep_duration = 5
 $sleep_time = NEW-TIMESPAN -End $start_date
 
 #Echo out the number of seconds and sleep
-if ($sleep_time.TotalSeconds > 0) {
+if ($sleep_time.TotalSeconds -gt 0) {
 	Write-Host "Sleeping for: $sleep_time"
 	sleep $sleep_time.TotalSeconds
 }
